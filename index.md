@@ -5,5 +5,7 @@
 ##### This is <h5> header 5
 ###### This is <h6> header 6
 
+![Image of Jirayiya in Perfect Balance on top of needle cliff during sage mode training](https://static.wikia.nocookie.net/naruto/images/6/60/Perfect_Balance.PNG)
 
-The file has been modified to include all 6 types of headers
+The file has been modified to include all 6 types of headers as well as an image
+
