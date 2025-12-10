@@ -32,6 +32,14 @@ def print_input():
     print(x)
 ```
 
+<h1> Embed a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 The file has been modified to include all 6 types of headers, an image and a code block.
+
 
 
